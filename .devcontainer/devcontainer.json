@@ -1,0 +1,10 @@
+{
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools",
+        "oracle.oracle-java"
+      ]
+    }
+  }
+}
